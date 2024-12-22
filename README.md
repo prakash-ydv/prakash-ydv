@@ -48,10 +48,7 @@ I am committed to learning new technologies and enhancing my skills. Right now, 
 
 ## 📈 GitHub Stats
 ![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakash-ydv&show_icons=true&theme=radical)
-
-## 📊 Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-ydv&layout=compact&theme=radical)
-
 
 ---
 
