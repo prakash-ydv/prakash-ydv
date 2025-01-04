@@ -9,9 +9,6 @@
 ---
 
 ## 🔭 Projects
-### 1. [Weather Forecast App](https://github.com/prakash-ydv/weather-forecast-app)
-- **Description**: A weather forecasting app using the OpenWeather API. Users can search for cities to view detailed weather data.
-- **Technologies**: HTML, CSS, JavaScript, OpenWeather API.
 
 ### 2. Spotify Clone
 - **Description**: A basic clone of Spotify built using Tailwind CSS.
