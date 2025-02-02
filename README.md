@@ -37,9 +37,11 @@ I am committed to learning new technologies and enhancing my skills. Right now, 
 ---
 
 ## 📬 Let's Connect
-- **Email**: [prakashyadav9576@gmail.com](mailto:prakashyadav9576@gmail.com)
-- **GitHub**: [Prakash Kumar](https://github.com/prakash-ydv)
-- **LinkedIn**: [Prakash Kumar](https://www.linkedin.com/in/prakash-kumar-jh09/)
+- [Mail](mailto:prakashyadav9576@gmail.com)
+- [GitHub](https://github.com/prakash-ydv)
+- [LinkedIn](https://www.linkedin.com/in/prakash-kumar-jh09/)
+- [GFG](https://www.linkedin.com/in/prakash-kumar-jh09/)
+- [LeetCode](https://leetcode.com/u/prakash___ydv/)
 
 ---
 
