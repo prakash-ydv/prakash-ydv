@@ -25,7 +25,7 @@
 ---
 
 ## 👨‍💻 Experience
-### Co-Event Head at College Event
+### Co-Event Head at Inforia 2K24
 - Managed and coordinated over 10 teams.
 - Led the team to ensure a smooth event flow.
 
